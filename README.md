@@ -19,11 +19,11 @@ The application is built using React.js for the frontend and Node.js for backend
 1. Clone the repository
 git clone https://github.com/yourusername/fitness-tracker.git
 2. Navigate to the project folder
-cd fitness-tracker
+- cd fitness-tracker
 3. Install dependencies
-npm install
+- npm install
 4. Run the application
-npm start
+- npm start
 
 **Future Improvements**
 - Add user authentication (login/signup)
