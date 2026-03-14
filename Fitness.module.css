@@ -1,0 +1,64 @@
+.container {
+  min-height: 100vh;
+  background: linear-gradient(to right, #a8edea, #fed6e3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 15px;
+  width: 350px;
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+button {
+  background-color: #ff7aa2;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.itemBox {
+  background: #f3f3f3;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.deleteBottom {
+  margin-top: 10px;
+  background-color: #ff4d6d;
+}
+
+.progressBar {
+  height: 10px;
+  background: #ddd;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.progress {
+  height: 10px;
+  background: green;
+  border-radius: 10px;
+}
